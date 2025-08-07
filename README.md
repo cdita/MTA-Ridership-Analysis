@@ -17,5 +17,5 @@ This project explores patterns in NYC MTA ridership during 2020, using accident 
 ## Files
 - `mta_modeling.ipynb`: ML model implementation
 - `nyc_eda.ipynb`: Initial questions and exploratory data analysis
-- 'final_paper.ipynb': Full report of every research question and analyses
+- `final_paper.ipynb`: Full report of every research question and analyses
 - `MTA_Presentation.pdf`: Final presentation slides
