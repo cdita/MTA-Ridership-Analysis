@@ -15,6 +15,7 @@ This project explores patterns in NYC MTA ridership during 2020, using accident 
 - Contributed to final presentation design and content
 
 ## Files
+- `MTA_Project.zip`: Main folder with all the files listed below
 - `mta_modeling.ipynb`: ML model implementation
 - `nyc_eda.ipynb`: Initial questions and exploratory data analysis
 - `final_paper.ipynb`: Full report of every research question and analyses
